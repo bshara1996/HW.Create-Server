@@ -4,7 +4,6 @@ A Node.js web server that serves a styled HTML page.
 
 ## 📋 Task Requirements
 
-**English:**
 1. Create a project folder.
 2. Create a `templates` sub-folder within the project folder.
 3. Create a `page.html` file that looks like the attached image. Since we don't know how to send images yet, create the display using characters of different sizes and color zones. Matching design is mandatory. Use internal CSS.
